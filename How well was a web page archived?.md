@@ -51,4 +51,48 @@ I plan to build a system that:
   - Group similar versions together
   - Highlight significant changes
 
-I AM STILL WORKING!!!
+**Timeline**
+=====================
+
+Before June 2
+
+  - Complete preparation work and preliminary research
+  - Set up development environment with all necessary tools
+  - Study the Wayback Machine's architecture and APIs
+
+Phase 1: Initial Development (June 2 - July 14)
+
+  - Week 1-2: Build basic page analysis framework
+    - Develop page requisite extraction system
+    - Implement initial metrics for completeness
+
+  - Week 3-4: Core feature implementation
+    - Implement error page detection
+    - Create content type verification
+
+  - Week 5-6: Integration and midterm preparation
+    - Connect components into unified analysis pipeline
+    - Prepare midterm demonstration
+   
+Phase 2: Advanced Features and Refinement (July 19 - August 25)
+
+  - Week 7-8: Representative sample identification
+    - Create algorithms to identify best representatives
+    - Develop importance weighting for page elements
+
+  - Week 9-11: Testing and optimization
+    - Comprehensive testing with diverse web pages
+    - Performance optimization
+    - Bug fixes and refinements
+
+**Why Me?**
+=====================
+
+- I've been using Python for 3 years and am comfortable with web scraping libraries like BeautifulSoup
+- I've built several websites and understand HTML, CSS and JS well enough to analyze webpage structures
+- I'm genuinely interested in digital preservation and the Internet Archive's mission
+
+P.S.: I'm a quick learner and I can also work well independently! I'm excited about the opportunity to help make the Wayback Machine more useful through this project...
+
+
+Thank you for reading <3
