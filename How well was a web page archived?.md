@@ -16,7 +16,7 @@
 - Problem Background: The Wayback Machine archives billions of web pages but currently doesn't have a way to tell users how complete or accurate these archives are and when there are multiple versions of a page it is hard to know which one is the best representation of the original! Sometimes pages are archived with missing elements or parts of the page might be captured at different times which leads to inconsistencies
 - Goal: Develop a quality assurance system that analyzes archived web pages and determines how well they were archived by looking at completeness and other quality factors
 
-**About me**
+**About Me**
 =====================
 I'm a sophomore student studying Computer Science & Artificial Intelligence at Arya College of Engineering (Rajasthan Technical University). I started my development journey through scratch and later shifted to front end development over the year!
 
@@ -24,5 +24,31 @@ Since then I have learned more of these new technologies like React, MongoDB, Ne
 
 What really interests me about the internet archive's mission is that I have always been a huge fan of it and sometimes there are websites which really inspires me but in the fear of them shutting down I search for it on archive.org and save it for later use. So, I believe wayback machine is a fascinating tool which I absolutely want to be a part of
 
+**My Approach**
+=====================
 
-STILL WORKING!!!
+I plan to build a system that:
+
+1) Checks for missing page elements
+
+  - Find all the resources a page needs (images, CSS, JS)
+  - Check if these resources exist in the archive
+  - Calculate what percentage is missing
+
+2) Detects error pages
+
+  - Identify when an archive is actually an error page (404, 500, etc)
+  - Recognize custom error pages too
+
+3) Verifies content types
+
+  - Make sure the archived content is the right type (HTML vs PDF)
+  - Flag content type mismatches
+
+4) Finds representative versions
+
+  - For pages with many archives, try to identify which ones best represent the page
+  - Group similar versions together
+  - Highlight significant changes
+
+I AM STILL WORKING!!!
